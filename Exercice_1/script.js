@@ -10,3 +10,5 @@ function handleMouseEnterBorder(event){
 function handleMouseOutBorder(event){
     event.target.classList.remove("redBorder")
 }
+
+// utiliser toggle a la place de add et remove
